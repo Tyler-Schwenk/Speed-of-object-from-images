@@ -19,5 +19,5 @@ Because I did this as an assignment for a computer vision class in college, I ha
   - If I instead looked for the wheels via a Hough Transform for circles, I could look for any color car, though this could have issues if many cars are in frame
   - Could be adapted to find the speed of various other objects with a change to the object detection criteria.
 
-### Output Example
+### Example Input and Output
 ![](/SpeedOfCarOutput.jpg)
