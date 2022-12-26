@@ -20,4 +20,4 @@ Because I did this as an assignment for a computer vision class in college, I ha
   - Could be adapted to find the speed of various other objects with a change to the object detection criteria.
 
 ### Output Example
-![output]()
+![output](/SpeedOfImageOutput.jpg)
