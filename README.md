@@ -1,7 +1,7 @@
 # Determining the speed of an object from images
 
 ### Objective
-To determine the distance travelled and speed of a car taking two images and some information from input.
+To determine the distance travelled and speed of a car from two images of it driving, using MATLAB
 
 ### Solution
 My code reads in two images from the user, along with the length of the car and the time at the two frames. 
@@ -20,4 +20,4 @@ Because I did this as an assignment for a computer vision class in college, I ha
   - Could be adapted to find the speed of various other objects with a change to the object detection criteria.
 
 ### Output Example
-![output](/SpeedOfCarOutput.jpg)
+![](/SpeedOfCarOutput.jpg)
